@@ -490,8 +490,6 @@ void BinarySearchTree<Key, Value>::insert(const std::pair<const Key, Value> &key
 			return;
 		}		
 	}
-
-
 }
 
 
